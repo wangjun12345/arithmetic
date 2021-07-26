@@ -2,7 +2,8 @@ package com.wac.arithmetic.primary.linklist;
 
 /**
  * @author wj
- * @Description: 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点
+ * @Description: 删除链表中倒数第n个节点
+ * 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点
  * @date 2021/6/24 10:43 上午
  */
 public class LL2 {

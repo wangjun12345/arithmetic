@@ -6,7 +6,8 @@ import java.util.Stack;
 
 /**
  * @author wj
- * @Description: 反转链表 给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
+ * @Description: 反转链表
+ * 给你单链表的头节点 head ，请你反转链表，并返回反转后的链表。
  * @date 2021/6/25 9:30 上午
  */
 public class LL3 {

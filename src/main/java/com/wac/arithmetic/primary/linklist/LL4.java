@@ -6,7 +6,8 @@ import java.util.List;
 
 /**
  * @author wj
- * @Description: 两个升序链表合并为一个新的 升序 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的
+ * @Description: 合并两个有序链表
+ * 两个升序链表合并为一个新的 升序 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的
  * @date 2021/6/25 10:49 上午
  */
 public class LL4 {

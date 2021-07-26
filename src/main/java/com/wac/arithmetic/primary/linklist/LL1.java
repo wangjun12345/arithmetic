@@ -3,7 +3,8 @@ package com.wac.arithmetic.primary.linklist;
 
 /**
  * @author wj
- * @Description: 请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点。传入函数的唯一参数为 要被删除的节点 。
+ * @Description: 删除链表中的节点
+ * 请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点。传入函数的唯一参数为 要被删除的节点 。
  * @date 2021/6/23 4:02 下午
  */
 public class LL1 {

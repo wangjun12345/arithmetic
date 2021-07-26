@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 /**
  * @author wj
- * @Description: 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
+ * @Description: 移动零
+ * 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
  * @date 2021/6/18 9:43 上午
  */
 public class Array8 {

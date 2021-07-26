@@ -4,7 +4,8 @@ import java.util.Stack;
 
 /**
  * @author wj
- * @Description: 请判断一个链表是否为回文链表
+ * @Description: 回文链表
+ * 请判断一个链表是否为回文链表
  * @date 2021/6/25 7:41 下午
  */
 public class LL5 {

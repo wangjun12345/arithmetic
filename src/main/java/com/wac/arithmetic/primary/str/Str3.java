@@ -6,7 +6,8 @@ import java.util.Map;
 
 /**
  * @author wj
- * @Description: 给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1
+ * @Description: 字符串中第一个唯一字符
+ * 给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1
  * @date 2021/6/21 9:59 上午
  */
 public class Str3 {
